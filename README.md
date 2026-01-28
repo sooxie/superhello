@@ -8,7 +8,10 @@
 
 ## 安装
 
+通过 Marketplace 安装：
+
 ```bash
+/plugin marketplace add sooxie/superhello
 /plugin install superhello@superhello-marketplace
 ```
 

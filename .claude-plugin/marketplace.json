@@ -14,7 +14,10 @@
       "name": "superhello",
       "description": "以文言文风格友好地问候与回复用户。Greet and respond to users in classical Chinese (文言文) style.",
       "version": "1.0.0",
-      "source": "https://github.com/sooxie/superhello.git",
+      "source": {
+        "source": "github",
+        "repo": "sooxie/superhello"
+      },
       "category": "productivity",
       "strict": false
     }

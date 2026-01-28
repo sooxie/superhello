@@ -1,0 +1,8 @@
+{
+  "name": "superhello",
+  "description": "以文言文风格友好地问候与回复用户。Greet and respond to users in classical Chinese (文言文) style.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sooxie"
+  }
+}

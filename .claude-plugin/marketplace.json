@@ -1,0 +1,22 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "superhello-marketplace",
+  "description": "文言文风格问候插件 - Classical Chinese greeting plugin for Claude Code",
+  "owner": {
+    "name": "sooxie"
+  },
+  "metadata": {
+    "description": "以文言文风格友好地问候与回复用户",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "superhello",
+      "description": "以文言文风格友好地问候与回复用户。Greet and respond to users in classical Chinese (文言文) style.",
+      "version": "1.0.0",
+      "source": ".",
+      "category": "productivity",
+      "strict": false
+    }
+  ]
+}
